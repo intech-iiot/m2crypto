@@ -20,7 +20,7 @@ Copyright 2008-2011 Heikki Toivonen. All rights reserved.
 # noqa
 import sys
 from distutils.version import StrictVersion
-__version__ = '0.29.0.dev'
+__version__ = '10.2.0'
 version = __version__  # type: str
 version_info = StrictVersion(__version__).version
 
